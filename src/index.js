@@ -35,6 +35,9 @@ ReactDOM.render(
                 <td><Lessons/></td>
                 <td><Price/></td>
             </tr>
+            <Tr/>
+            <Tr/>
+            <Tr/>
         </table>
     </>,
     document.getElementById("root"));
@@ -53,4 +56,11 @@ function Price() {
 
 function Lessons() {
     return <div>10 уроков</div>
+}
+function Tr() {
+    return <tr>
+            <td>888</td>
+            <td>8765</td>
+            <td>242424</td>
+           </tr>
 }
