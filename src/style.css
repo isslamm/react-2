@@ -1,0 +1,58 @@
+.logo1 {
+color: darkblue;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+.ul {
+    width: 200px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.main
+ {
+    width: 170px;
+    margin:auto ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.but-1 {
+    width: 200px;
+    height: 60px;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+.but-2 {
+    width: 200px;
+    height: 60px;
+    background-color:  #F27C0F;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+.but-3 {
+    width: 200px;
+    height: 60px;
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+.but-flex {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.block {
+    width: 900px;
+    margin: auto;
+}
