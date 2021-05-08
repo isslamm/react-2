@@ -12,4 +12,4 @@ function Menu() {
     );
 }
 
-export dgefault Menu;
+export default Menu;
